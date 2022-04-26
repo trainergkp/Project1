@@ -4,6 +4,7 @@ public class CircleImpl extends Circle{
 	private double radius;
 	private double length;
 	private double width;
+	private double height;
 	public void setValue(double x, double y)
 	{
 		length=x;
